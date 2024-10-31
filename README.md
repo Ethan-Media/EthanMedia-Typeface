@@ -1,8 +1,4 @@
 # EthanMedia-Typeface
-
-
-
-
 This typeface is specifically for independent personal use. 
 
 
